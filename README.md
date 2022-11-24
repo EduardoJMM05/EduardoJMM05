@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollo+Backend;Inteligencia+Artificial;Criptografía&center=true&size=30px&width=980&height=50&color=80D0C7)](https://git.io/typing-svg)
 
+![ultima_actualizacipon](https://img.shields.io/github/last-commit/EduardoJMM05/EduardoJMM05?label=%C3%9Altima%20actualizaci%C3%B3n)
+
 ## Sobre mí :technologist:
 Soy un Ingeniero en Sistemas Computacionales con conocimientos básicos en **AI** y **Criptografía**, actualmente me encuentro iniciando mi carrera en el desarrollo BackEnd.
 
@@ -19,6 +21,8 @@ Soy un Ingeniero en Sistemas Computacionales con conocimientos básicos en **AI*
 [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
 
 [Github Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[Shields.io](https://shields.io/)
 
 <!---
 EduardoJMM05/EduardoJMM05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
