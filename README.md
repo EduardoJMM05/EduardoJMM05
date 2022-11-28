@@ -7,7 +7,7 @@
 ## Sobre mí :technologist:
 Soy un Ingeniero en Sistemas Computacionales con conocimientos básicos en **AI** y **Criptografía**, actualmente me encuentro iniciando mi carrera en el desarrollo BackEnd.
 
-## Tecnologías de interes / conocimientos
+## Tecnologías de interés / conocimientos
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
 ![node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
 ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
@@ -15,10 +15,12 @@ Soy un Ingeniero en Sistemas Computacionales con conocimientos básicos en **AI*
 
 
 ## Mis estadisticas de actividad
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EduardoJMM05&bg_color=478A90&color=FAF8F9&line=ADD2CA&custom_title=Mi%20gráfica%20de%20contribución&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eduardo's github activity graph](https://activity-graph.herokuapp.com/graph?username=EduardoJMM05&bg_color=478A90&color=FAF8F9&line=ADD2CA&custom_title=Mi%20gráfica%20de%20contribución&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contactame
-[![Logo LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](www.linkedin.com/in/edjamorales)
+<a href="https://linkedin.com/in/edjamorales" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin:  edjamorales-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
 ## Recursos usados
 [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
