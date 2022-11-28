@@ -17,6 +17,9 @@ Soy un Ingeniero en Sistemas Computacionales con conocimientos básicos en **AI*
 ## Mis estadisticas de actividad
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EduardoJMM05&bg_color=478A90&color=FAF8F9&line=ADD2CA&custom_title=Mi%20gráfica%20de%20contribución&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Contactame
+[![Logo LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](www.linkedin.com/in/edjamorales)
+
 ## Recursos usados
 [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
 
