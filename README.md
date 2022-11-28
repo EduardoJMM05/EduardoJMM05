@@ -5,7 +5,9 @@
 ![ultima_actualizacipon](https://img.shields.io/github/last-commit/EduardoJMM05/EduardoJMM05?label=%C3%9Altima%20actualizaci%C3%B3n)
 
 ## Sobre mí :technologist:
-Soy un Ingeniero en Sistemas Computacionales con conocimientos básicos en **AI** y **Criptografía**, actualmente me encuentro iniciando mi carrera en el desarrollo BackEnd.
+Soy un Ingeniero en Sistemas Computacionales con conocimientos básicos en **Redes Neuronales**, **Algoritmos Genéticos** y **Criptografía**, actualmente me encuentro iniciando mi carrera en el desarrollo BackEnd.
+
+Tambien cuento con una cuenta secundaria de Github: [EduardoMorales-LX](https://github.com/EduardoMorales-LX) dónde actualmente estoy subiendo mis prácticas correspondientes al programa LaunchX-LATAM de Innovacción Virtual.
 
 ## Tecnologías de interés / conocimientos
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
