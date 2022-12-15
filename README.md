@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hola , soy Eduardo! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollo+Backend;Inteligencia+Artificial;Criptografía&center=true&size=30px&width=1000&height=50&color=80D0C7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollo+Backend;Inteligencia+Artificial;Criptografía&center=true&vCenter=true&size=40px&width=1100&height=70&color=80D0C7)](https://git.io/typing-svg)
 
 ![ultima_actualizacipon](https://img.shields.io/github/last-commit/EduardoJMM05/EduardoJMM05?label=%C3%9Altima%20actualizaci%C3%B3n)
 
