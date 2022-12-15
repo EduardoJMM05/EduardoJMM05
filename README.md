@@ -17,7 +17,7 @@ Tambien cuento con una cuenta secundaria de Github: [EduardoMorales-LX](https://
 
 
 ## Mis estadisticas de actividad
-[![Eduardo's github activity graph](https://activity-graph.herokuapp.com/graph?username=EduardoJMM05&bg_color=478A90&color=FAF8F9&line=ADD2CA&custom_title=Mi%20gráfica%20de%20contribución&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eduardo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EduardoJMM05&bg_color=478A90&color=FAF8F9&line=ADD2CA&custom_title=Mi%20gráfica%20de%20contribución&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contactame
 <a href="https://linkedin.com/in/edjamorales" target="_blank">
